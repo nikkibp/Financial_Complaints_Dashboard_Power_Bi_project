@@ -13,14 +13,23 @@ The dashboard should provide real-time insights into key performance indicators 
 Charts Requirement
 
 -Total complaints
+
 -Timely response %
+
 -In progress
+
 -Disputed rate
+
 -Resolved at no cost
+
 -Total complaints by issue
+
 -Total complaints by product
+
 -Consumer disputed 
+
 -Total complaints by state
+
 -Monthly trend
 
 ## Objective
